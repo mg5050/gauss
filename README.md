@@ -1,5 +1,7 @@
 # gauss
 
 Gaussian Elimination Project
-Michael Gonzalez 
+
+Michael Gonzalez
+
 Fall 2014
